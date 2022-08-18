@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my personal portfolio!
-- 🌱 I’m currently learning video game development
-- 💬 Ask me about my favorite song
+- 🌱 I’m currently learning video game development.
+- 💬 Ask me about my favorite song.
 - 📫 How to reach me: LinkedIn , Github.
 
 <!--
