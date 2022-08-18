@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my personal portfolio!
+- 🌱 I’m currently learning video game development.
 
 <!--
 **Alexisrsz/Alexisrsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
